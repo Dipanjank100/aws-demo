@@ -1,7 +1,7 @@
 ## Step-by-step instructions for AWS using the Mumbai region, based on the provided file :
 ---
 ---
-**Step-1 :**
+### Step-1:
 
 Go to the AWS Management Console and select the Mumbai region from the dropdown menu in the top right corner.
 
