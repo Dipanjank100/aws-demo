@@ -1,0 +1,160 @@
+WEBVTT
+
+00:00.910 --> 00:05.530
+Amira Ghanem: I'm excited to be your instructor for this course.
+
+00:05.770 --> 00:11.110
+Learning cloud computing is essential for everyone in the world today.
+
+00:11.260 --> 00:17.980
+Almost every enterprise out there is adopting the cloud. Therefore, irrespective of your role,
+
+00:17.980 --> 00:24.910
+whether you are a project manager, a business analyst, a tester, a programmer, or an architect, everybody
+
+00:24.910 --> 00:27.730
+on the team needs to understand the cloud.
+
+00:27.940 --> 00:34.360
+However, in my experience, I have found that businesses new to the cloud find the first steps to cloud adoption a little difficult.
+
+00:34.450 --> 00:41.470
+The most important reason is the wide range of terminology and the wide variety of services that each
+
+00:41.470 --> 00:43.690
+of the cloud platforms offer.
+
+00:43.930 --> 00:48.370
+There are terminologies like infrastructure as a service, platform as a service, private cloud, public
+
+00:48.370 --> 00:49.720
+cloud, and hybrid cloud.
+
+00:49.750 --> 00:53.740
+There are terminologies like serverless, containers, and container orchestration.
+
+00:53.740 --> 01:00.160
+Each of the cloud providers also provides a variety of services related to compute, databases, storage,
+
+01:00.160 --> 01:04.930
+DevOps, artificial intelligence, machine learning, data lakes, data warehouses, and a wide variety
+
+01:04.930 --> 01:05.530
+of others.
+
+01:05.800 --> 01:12.910
+For example, AWS offers 200+ services. Because of this wide range of terminology and the wide
+
+01:12.910 --> 01:16.780
+variety of services, businesses new to the cloud find it really difficult.
+
+01:17.170 --> 01:24.100
+That's why we spent a lot of time creating a simple path, focusing on the fundamentals of the cloud.
+
+01:24.130 --> 01:28.870
+Once you understand the fundamentals of the cloud and the terminology associated with it,
+
+01:28.870 --> 01:33.610
+you will see that you can learn it very easily.
+
+01:33.940 --> 01:36.240
+And that's the goal of this specific course:
+
+01:36.250 --> 01:40.390
+to help you start your cloud journey with us.
+
+01:40.990 --> 01:43.870
+This course does not have any prerequisites.
+
+01:43.900 --> 01:47.200
+It does not expect you to have any prior experience with the cloud.
+
+01:47.590 --> 01:49.570
+Learning cloud computing can be tricky,
+
+01:49.600 --> 01:54.350
+as you need to understand and remember a number of services.
+
+01:54.370 --> 01:55.270
+We're human.
+
+01:55.270 --> 01:56.080
+I'm human.
+
+01:56.080 --> 01:58.900
+And as humans, we tend to forget things.
+
+01:59.200 --> 02:05.210
+If I'm learning something new today, it is highly probable that I'll forget it in a few days' time.
+
+02:05.230 --> 02:08.710
+How do you improve your chances of remembering things for a long time?
+
+02:08.950 --> 02:13.000
+Here are a couple of recommendations based on my experience.
+
+02:13.030 --> 02:15.340
+Number one is active learning.
+
+02:15.370 --> 02:17.380
+Think and take notes whenever you see something interesting in the course.
+
+02:17.440 --> 02:19.670
+Write it down.
+
+02:19.690 --> 02:20.860
+The second recommendation is to review the presentation once in a while.
+
+02:21.310 --> 02:25.720
+After completing a few sections, take a step back, review the presentation and videos, and think about what you have learned.
+
+02:26.170 --> 02:31.360
+The more you are actively involved with the learning and the more you review, the higher the chances for you to remember things for a long time.
+
+02:31.360 --> 02:32.890
+Now, what is our approach to building a great course?
+
+02:43.750 --> 02:46.420
+We are taking a three-pronged approach.
+
+02:46.600 --> 02:52.270
+We have amazing video presentations where we will introduce the different services to you.
+
+02:52.300 --> 02:58.840
+We have also designed a number of amazing demos where you will be playing with a number of services.
+
+02:58.870 --> 03:03.730
+We have also designed a couple of different kinds of quizzes to reinforce your learning.
+
+03:03.760 --> 03:08.440
+We have traditional text quizzes where you have questions, multiple-choice answers, and you pick the right answer.
+
+03:09.460 --> 03:14.890
+We also have video quizzes where we discuss the scenarios, solutions, and the different variations that are possible on this solution.
+
+03:16.900 --> 03:18.920
+By using this three-pronged approach,
+
+03:18.940 --> 03:24.160
+we think you'll be able to remember things for a long time. Now, before we move into the next step,
+
+03:24.190 --> 03:26.770
+there are a couple of recommendations for you.
+
+03:26.800 --> 03:29.320
+Number one, this is not a race.
+
+03:29.350 --> 03:30.350
+Take your time.
+
+03:30.370 --> 03:35.920
+Focus on understanding things well and do not hesitate to replay videos when needed.
+
+03:35.950 --> 03:36.850
+The second, but the most important recommendation is to have fun.
+
+03:40.210 --> 03:44.800
+Learning loudly can get really boring, and that's why we invested a lot of time to try and make this course really interactive, really hand-sewn, and also making sure that you'll have a lot of fun while you learn.
+
+03:44.800 --> 03:49.990
+I'm really excited to help you learn, and I'll see you in the next step.

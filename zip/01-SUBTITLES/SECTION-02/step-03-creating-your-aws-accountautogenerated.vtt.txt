@@ -1,0 +1,190 @@
+WEBVTT
+
+00:01.440 --> 00:05.580
+Are you excited to create your account and get started with playing with the cloud?
+
+00:05.910 --> 00:07.770
+These are the things you would need:
+
+00:08.010 --> 00:11.550
+Number one is your personal details, including your address.
+
+00:11.580 --> 00:17.460
+Number two is a valid debit or credit card, and you need your mobile phone as well.
+
+00:18.400 --> 00:22.560
+A plus is providing you access to very powerful infrastructure.
+
+00:22.590 --> 00:27.780
+You'll be able to create a number of resources in ways, and that's why they want to be really, really sure who you are before they provide you with access.
+
+00:27.780 --> 00:31.530
+And that's why this process can be a little tedious.
+
+00:31.770 --> 00:35.280
+I would recommend having a little bit of patience during this process.
+
+00:35.310 --> 00:38.910
+The great thing is that this is a one-time process.
+
+00:42.180 --> 00:45.540
+Once we get through, you never have to go through it again.
+
+00:45.780 --> 00:47.010
+Let's get started.
+
+00:48.510 --> 00:51.930
+What I recommend you do is to search for a free tier.
+
+00:52.920 --> 00:57.090
+You can either click the ad at the top, or if you don't see the ad, you can click the "Free Computing Services Ad Free to Air Link," which should be one of the first results.
+
+01:01.980 --> 01:05.130
+This would take you to the Free to Air page.
+
+01:05.550 --> 01:11.370
+The goal of a free tier is to provide you with free hands-on experience with the platform, products, and services, and to be able to make use of the free tier, we would need to create an account.
+
+01:11.370 --> 01:16.560
+So let's go ahead and say create an account.
+
+01:20.310 --> 01:22.590
+Let's get started with the signup process.
+
+01:22.620 --> 01:25.140
+The first thing you would need is your email address.
+
+01:25.350 --> 01:27.930
+This is called the root user email address.
+
+01:27.930 --> 01:33.000
+So enter your email address here and choose an account name for your account.
+
+01:33.150 --> 01:37.020
+Once you fill in these two details, click "Verify your email address."
+
+01:37.530 --> 01:42.840
+If you check your email address, you should see a message like this with the verification code.
+
+01:43.170 --> 01:47.850
+So you should receive an email as soon as you enter the details on this specific screen and click "Verify Email address," and on the next page, you can enter the verification code and click the "Verify" button.
+
+01:53.700 --> 01:57.960
+If you didn't receive the code, the first thing I would recommend you do is to check your spam folder.
+
+01:58.500 --> 02:00.360
+If there is no email in your spam folder,
+
+02:00.390 --> 02:02.340
+Wait for 5 to 10 minutes.
+
+02:02.970 --> 02:07.320
+If you don't receive the code after 5 to 10 minutes, go ahead and click Resend Code again.
+
+02:08.250 --> 02:12.690
+Make sure that you enter the verification code, click the Verify button, and you should be taken to the create your password screen.
+
+02:12.690 --> 02:14.700
+This is where you can enter your root user password.
+
+02:15.720 --> 02:18.630
+Your email ID is your root user, and the password which you enter on the screen is called the root user password.
+
+02:19.630 --> 02:24.880
+So go ahead, enter your root user password, confirm it, and click continue.
+
+02:32.560 --> 02:37.780
+On the next page, you'll be able to provide your contact information. You need to choose if you're using it for business purposes or personal purposes, and also your contact information, your full name, phone number, country, your region's address, city, state, and postal code.
+
+02:48.640 --> 02:55.960
+Make sure that you read and agree to the terms of the customer agreement and click continue again on the next page.
+
+02:56.500 --> 02:58.630
+You need to enter your billing information.
+
+02:58.630 --> 03:01.720
+This is where your credit or debit card details will be useful.
+
+03:02.510 --> 03:07.700
+So go ahead and enter all the details that are requested on this specific page and click Verify and Continue.
+
+03:09.350 --> 03:15.680
+One of the things that you need to remember is that it will not charge you for usage as long as you are within the free time limits. To verify your debit card or credit card, areas might do a transaction or a hold up to one dollar.
+
+03:25.730 --> 03:31.070
+So you might have a transaction like this, which happens to verify your debit and credit card.
+
+03:37.850 --> 03:40.760
+So what you need to do is verify your phone number.
+
+03:41.630 --> 03:44.480
+You can choose either to get a text message or a voice call.
+
+03:44.480 --> 03:45.230
+Go ahead and enter your mobile number here.
+
+03:47.420 --> 03:52.730
+Enter the characters for the security check and click the button at the bottom of the page.
+
+03:53.970 --> 04:00.090
+Once you receive the SMS or the voice call, go ahead and confirm the identity on the next page as shown here.
+
+04:00.540 --> 04:05.640
+Sometimes there can be a little bit of a delay of up to 10 minutes for you to receive your verification code.
+
+04:07.650 --> 04:11.370
+If it takes longer than that, you can go back to the previous page and try again.
+
+04:12.090 --> 04:16.740
+Once you enter the verification code and click Continue, you'll be taken to the page where you can select the support plan.
+
+04:18.450 --> 04:21.570
+There are multiple levels of support that we provide, but we're interested in the basic support, which is free.
+
+04:24.240 --> 04:28.830
+Let's use basic support free and click "complete sign up."
+
+04:29.550 --> 04:34.320
+Congratulations on completing the entire process needed to create an account.
+
+04:34.740 --> 04:40.860
+If you click the management control button, you'll be taken to the management console page.
+
+04:41.760 --> 04:46.710
+You can also reach this page by searching for "management control" on Google.
+
+04:47.820 --> 04:50.310
+From here, click "sign in to console."
+
+04:51.620 --> 04:56.900
+This will take you to the sign-in page where you'll need to use the root user to sign in.
+
+04:57.260 --> 05:01.690
+The root user is the email ID that you used to create your account.
+
+05:01.700 --> 05:05.210
+Enter the email address here and click "next."
+
+05:05.930 --> 05:08.510
+On the next page, enter your password.
+
+05:09.260 --> 05:13.130
+This is the password you chose when you created the account.
+
+05:13.640 --> 05:15.710
+Click "sign in" to continue.
+
+05:16.460 --> 05:20.750
+This should take you inside your management console.
+
+05:21.990 --> 05:23.730
+Congratulations!
+
+05:24.330 --> 05:28.560
+Creating an account can be a tedious process, but it's only a one-time thing.
+
+05:29.100 --> 05:31.110
+So all the hard work is now behind you.
+
+05:31.140 --> 05:35.010
+Let's start exploring the management console and move on to the next step.
