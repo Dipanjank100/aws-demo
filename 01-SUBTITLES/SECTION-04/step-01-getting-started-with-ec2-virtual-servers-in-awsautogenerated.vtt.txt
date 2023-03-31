@@ -1,0 +1,100 @@
+WEBVTT
+
+00:01.400 --> 00:02.180
+Setting this up.
+
+00:02.180 --> 00:09.320
+Let's look at what is easy to do and why we need easy-to-incorporate data centers.
+
+00:09.320 --> 00:09.980
+?
+
+00:09.980 --> 00:13.550
+Applications are deployed to physical servers.
+
+00:13.910 --> 00:18.740
+If I wanted to deploy an application, the first thing I would do is provision a server.
+
+00:19.070 --> 00:21.650
+Now, how do you do things in the cloud?
+
+00:21.650 --> 00:24.890
+Where do you deploy applications to in the cloud?
+
+00:24.890 --> 00:32.150
+That's where we would be renting something called virtual machines and enablers.
+
+00:32.150 --> 00:39.680
+The virtual machines are called Easy2 instances, Easy2 stands for Elastic Compute Cloud.
+
+00:39.800 --> 00:45.200
+So, if you want to create a virtual machine in eight years, you'd be creating an Easy2 instance.
+
+"00:45.200 --> 00:50.720
+And how can you create an EC2 instance? The service which you would be making use of to provision
+
+00:50.720 --> 00:56.390
+EC2 instances is called EC2 service or just EC2.
+
+00:56.420 --> 01:01.550
+Whenever somebody refers to EC2, they are referring to this service which is used to create virtual
+
+01:01.550 --> 01:09.560
+machines or EC2 instances in AWS. EC2 or Elastic Compute Cloud is one of the most popular
+
+01:10.160 --> 01:11.090
+services.
+
+01:11.120 --> 01:15.680
+Now, what are the things that you can do with EC2? What are the important features of EC2?
+
+01:15.980 --> 01:19.640
+You can create and manage the lifecycle of EC2 instances.
+
+01:19.640 --> 01:24.470
+With EC2 instances, you'll be able to create, start, stop and terminate them.
+
+01:24.470 --> 01:25.700
+So, there are a lot of actions that you can perform on EC2 instances and all those can be done through
+
+01:31.940 --> 01:33.500
+the EC2 service."
+
+01:33.740 --> 01:38.630
+In addition, you can also attach storage to your EC2 instances.
+
+01:38.630 --> 01:44.840
+Typically, your laptop or computer has a hard disk attached to it, and for your virtual machines or EC2 instances, you would also want to be able to attach storage to them.
+
+01:44.840 --> 01:49.010
+That's where you can make use of something called EBS or Elastic Block Store.
+
+01:49.250 --> 01:54.470
+You can use EC2 to create Elastic Block Store volumes and attach them to your EC2 instances.
+
+01:54.500 --> 02:01.670
+You can also do load balancing for multiple EC2 instances using Elastic Load Balancing.
+
+02:02.960 --> 02:08.390
+Let's say you have an application that has a million users.
+
+02:08.930 --> 02:11.950
+You cannot run it on just one EC2 instance.
+
+02:11.960 --> 02:15.040
+You would want to be able to run it on multiple EC2 instances, and when you have multiple instances,
+
+02:15.050 --> 02:19.790
+you would want to be able to load balance between them.
+
+02:19.790 --> 02:22.490
+Elastic Load Balancing is a feature provided by the EC2 service, and it helps you to distribute traffic across multiple EC2 instances.
+
+02:22.850 --> 02:29.210
+EC2 stands for Elastic Compute Cloud, and it is the service that helps you to create virtual machines in AWS.
+
+02:29.210 --> 02:33.980
+In the next step, let's start playing with EC2 instances.
+
+02:37.400 --> 02:38.870
+I'll see you in the next step.

@@ -1,0 +1,161 @@
+00:01.600 --> 00:06.490
+Earlier, when we talked about the cloud, we discussed the fact that you can go global in minutes.
+
+00:06.820 --> 00:12.250
+You can deploy your applications to different parts of the world in minutes if you're making use of the cloud.
+
+00:13.030 --> 00:14.260
+How can you do that?
+
+00:14.620 --> 00:20.380
+The most important concepts that enable you to do that are regions and zones.
+
+00:20.410 --> 00:24.710
+In this step, let's focus on understanding why we need regions and zones.
+
+00:24.730 --> 00:27.790
+Let's take a simple example and discuss that.
+
+00:28.090 --> 00:34.120
+Imagine that your enterprise has a corporate data center in the London region, and you have deployed an application there.
+
+00:34.120 --> 00:35.980
+Let's assume that your users are distributed globally.
+
+00:41.640 --> 00:43.050
+What would be the challenges?
+
+00:44.130 --> 00:44.490
+Challenge.
+
+00:44.490 --> 00:48.900
+One is slow access for users from other parts of the world.
+
+00:49.680 --> 00:56.610
+If I'm accessing this application, let's say, from Sydney or Mumbai or Chennai or New York, the application
+
+00:56.610 --> 00:57.900
+will be a little slow.
+
+00:58.440 --> 01:00.900
+This is also called high latency.
+
+01:01.560 --> 01:05.400
+So we have high latency for users from other parts of the world.
+
+01:06.790 --> 01:11.200
+Number two, let's imagine a scenario where this data center crashes.
+
+01:12.190 --> 01:15.290
+Because we have just one instance of the application.
+
+01:15.310 --> 01:17.950
+The application is no longer available.
+
+01:18.220 --> 01:23.020
+Your application goes down, so your application has low availability.
+
+01:23.530 --> 01:24.640
+Now, think about this.
+
+01:24.640 --> 01:27.490
+What can we do to improve this situation?
+
+01:27.790 --> 01:32.200
+What we can do is add one more data center in London.
+
+01:32.890 --> 01:36.460
+We have one data center in London, so we are adding one more.
+
+01:36.580 --> 01:40.360
+So, we have Corporate Data Center 1 and Corporate Data Center 2.
+
+01:41.230 --> 01:42.820
+What would be the challenges then?
+
+01:44.050 --> 01:44.840
+Challenge one:
+
+01:44.860 --> 01:49.330
+Slow access for users from other parts of the world is not yet fixed.
+
+01:50.020 --> 01:52.450
+It remains a challenge too.
+
+01:52.480 --> 01:56.170
+On the other hand, what if one data center crashes? It is solved.
+
+01:56.350 --> 02:02.710
+Because even if this data center crashes, we can serve the application from Corporate Data Center 2.
+
+02:02.740 --> 02:04.060
+That's awesome!
+
+02:04.360 --> 02:07.880
+So your application is still available from the other data center. However, there is a new challenge.
+
+02:10.450 --> 02:11.560
+Challenge three:
+
+02:11.590 --> 02:15.580
+What if the entire London region is unavailable? In that case, the application would go down.
+
+02:19.360 --> 02:24.510
+We spent a lot of time thinking about this and came up with a better solution. What did we do?
+
+02:24.520 --> 02:25.510
+We added a new region, Mumbai.
+
+02:28.690 --> 02:30.940
+We now have two regions: London and Mumbai, and each of these regions has two data centers.
+
+02:34.640 --> 02:36.830
+Now, let's think about our challenges.
+
+02:37.400 --> 02:39.590
+Challenge number one is partly solved.
+
+02:40.410 --> 02:45.630
+At least the users who are nearer to the Mumbai region will get faster access to the application.
+
+02:46.080 --> 02:52.290
+We can solve challenge one completely by adding deployment for our application in multiple regions around the world.
+
+02:52.290 --> 02:52.960
+We can add a deployment in Sydney, New York, and multiple other regions in the rest of the world.
+
+02:58.500 --> 03:00.700
+Number two, what if one data center crashes?
+
+03:00.720 --> 03:02.340
+This is already solved.
+
+03:02.820 --> 03:05.820
+Number three, what if the entire region of London is unavailable?
+
+03:05.850 --> 03:07.740
+What happens if London goes down?
+
+03:08.010 --> 03:10.560
+We would be serving our users from Mumbai.
+
+03:11.310 --> 03:13.500
+So this is solid as well.
+
+03:14.760 --> 03:21.000
+By having multiple regions and multiple data centers in each of those regions, we can provide high availability to our users.
+
+03:23.640 --> 03:26.670
+Another thing that improves is latency.
+
+03:26.790 --> 03:32.520
+Users nearer to each of these regions get faster access to these applications.
+
+03:33.210 --> 03:40.020
+This is why each of the cloud providers provides concepts called regions, zones, or availability zones.
+
+03:41.280 --> 03:44.250
+In this step, we understood the need for regions and zones.
+
+03:44.400 --> 03:46.740
+Let's discuss this more in the next step.
